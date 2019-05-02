@@ -1,5 +1,10 @@
 # component-demo
 
+## Pre install
+1. Have nodejs installed on your computer https://nodejs.org/en/
+2. install vue-cli globally ``` npm install -g @vue/cli ``` https://cli.vuejs.org/
+
+
 ## Project setup
 ```
 npm install
