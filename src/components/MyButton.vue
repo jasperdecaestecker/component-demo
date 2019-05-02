@@ -6,7 +6,7 @@
 
 <script>
 export default {
-  name: "TalmundoButton",
+  name: "MyButton",
   props: {
     text: String // Props are parameters that can be passed to the component
   },

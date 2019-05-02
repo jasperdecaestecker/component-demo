@@ -20,15 +20,8 @@ npm run serve
 npm run build
 ```
 
-### Run your tests
-```
-npm run test
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
+### Components
+Components can be found inside the components folder. The components are used inside the view Components. The App.vue is the application wrapper loads the Components view
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
